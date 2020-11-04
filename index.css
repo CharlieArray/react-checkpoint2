@@ -1,0 +1,45 @@
+
+main{
+    font-weight: 600;
+    margin-left: 4%;
+    margin-right: 4%;
+    background-color: lightgoldenrodyellow;
+}
+
+
+#introduction{
+    border: 1px dotted black;
+    padding: 10px;
+    font-size: 16px;
+}
+
+
+#Education{
+    border: 1px dotted black;
+    padding: 10px;
+    font-size: 16px;
+}
+
+
+#works{
+    border: 1px dotted black;
+    padding: 10px;
+    font-size: 16px;
+    font-size: 14px;
+
+}
+
+
+#Contact-section{
+    display: block;
+    justify-content: center;
+    border: 1px dotted black;
+    padding: 10px;
+    font-size: 16px;
+    font-size: 14px;
+}
+
+#Contact-info{
+    padding: 10px;
+    font-size: 16px;
+    font-size: 14px;
